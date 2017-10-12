@@ -10,7 +10,7 @@ Minecraft Mods:
 
 Fallout Mods: 
 
-https://cdn.discordapp.com/attachments/123995612969435136/307565152180633600/FOMM-36901-0-13-21.exe
+FOMM: https://cdn.discordapp.com/attachments/123995612969435136/307565152180633600/FOMM-36901-0-13-21.exe
 
 Useful Links:
 
