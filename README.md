@@ -15,3 +15,5 @@ Oracle Java JDK 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-
 Steam AppManifest Generator: https://github.com/dotfloat/steam-appmanifest
 
 ATLauncher: https://www.atlauncher.com/downloads
+
+OpenVPN: https://openvpn.net/index.php/open-source/downloads.html
