@@ -8,7 +8,7 @@ Minecraft Mods:
 
 MC Mods By Version (Lists): 
 
-1.7.10 (List): https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/-README_MC_1.7.10.md-
+1.7.10 (List): https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/README_MC_1.7.10.md
 
 MC Mods By Version:
 
