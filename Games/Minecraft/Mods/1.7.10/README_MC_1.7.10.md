@@ -10,7 +10,7 @@ https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/WarpDrive-1.7.10-1.3.29.-.jar
 
-## Power Converters 3:
+### Power Converters 3:
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/PowerConverters-1.7.10-2.11.jar
 
@@ -36,3 +36,14 @@ https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/
 ## [Misc.] : 
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/Minecraft_Flight_Simulator-1.7.10-7.1.2.jar
+
+
+## [For Unabridged R.14]
+
+### Vein Miner: 
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/VeinMiner-1.7.10-0.35.2.487e134bd4.jar
+
+### Power Converters 3: 
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/PowerConverters-1.7.10-2.11.jar
