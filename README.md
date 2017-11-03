@@ -32,3 +32,5 @@ Steam AppManifest Generator: https://github.com/dotfloat/steam-appmanifest
 ATLauncher: https://www.atlauncher.com/downloads
 
 OpenVPN: https://openvpn.net/index.php/open-source/downloads.html
+
+Web Radio Streams (Compatable with most radio mods): http://dir.xiph.org/index.php
