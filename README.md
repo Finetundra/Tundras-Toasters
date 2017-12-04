@@ -34,3 +34,7 @@ ATLauncher: https://www.atlauncher.com/downloads
 OpenVPN: https://openvpn.net/index.php/open-source/downloads.html
 
 Web Radio Streams (Compatable with most radio mods): http://dir.xiph.org/index.php
+
+Speed Test Powered by Netflix: https://fast.com/
+
+Ookla Speed Test: http://beta.speedtest.net/
