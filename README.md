@@ -27,6 +27,8 @@ Oracle Java JRE 8: http://www.oracle.com/technetwork/java/javase/downloads/jre8-
 
 Oracle Java JDK 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
+SCP Toolkit (Playstation 3 & 4 controller drivers): https://github.com/Finetundra/Tundras-Toasters/raw/master/Software/ScpToolkit_Setup.exe
+
 Steam AppManifest Generator: https://github.com/dotfloat/steam-appmanifest
 
 ATLauncher: https://www.atlauncher.com/downloads
