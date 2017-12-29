@@ -5,7 +5,11 @@ Welcome to the Tundra's Toasters Github repo! This is an attempt by myself, Tund
 
 ## Minecraft Server:
 
-virustrand.com
+Current Modpack: A Bit of Everything (1.3.2;MC Version 1.7.10)
+
+Launcher: ATLauncher
+
+Server Address: virustrand.com
 
 ## Minecraft Mods: 
 
