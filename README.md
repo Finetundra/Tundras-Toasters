@@ -5,7 +5,7 @@ Welcome to the Tundra's Toasters Github repo! This is an attempt by myself, Tund
 
 ## Minecraft Server:
 
-Current Modpack: A Bit of Everything (Version 1.3.2 | MC Version 1.7.10)
+Current Modpack: CrundeeCraft (Version 1.1.0 | MC Version 1.7.10)
 
 Launcher: ATLauncher
 
