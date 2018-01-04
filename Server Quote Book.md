@@ -36,7 +36,7 @@
 
 **FlamingDonut:**
 
->no i will not discrace my holy silence
+>no i will not disgrace my holy silence
 
 ***
 
