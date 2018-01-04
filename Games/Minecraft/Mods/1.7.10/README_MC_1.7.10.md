@@ -33,9 +33,7 @@ https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/rftools-4.23.jar
 
-----------------------------------------------------------------------------------------------------
-
-### Added 03-18-2018
+*Added 03-18-2018*
 
 ### Botania:
 
