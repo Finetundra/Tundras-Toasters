@@ -2,7 +2,7 @@
 
 **Uranium:**
 
-&;&;&;&;&;&; "No"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "No"
 
 "Fuck off"
 
