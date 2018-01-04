@@ -112,13 +112,7 @@
 
 **TEAmPownage:**
 
->Also, I need to brag about my superiority real quick:
-
->It was the wee hours of midnight, and I wanted some doughnuts.
-
->Realizing that I was indeed, a fucking adult, I drove to kroger, and then I bought some doughnuts.
-
->Now I'm back home, and I'm eating doughnuts. The ends
+>Also, I need to brag about my superiority real quick: It was the wee hours of midnight, and I wanted some doughnuts. Realizing that I was indeed, a fucking adult, I drove to kroger, and then I bought some doughnuts. Now I'm back home, and I'm eating doughnuts. The ends
 
 ***
 
@@ -130,9 +124,7 @@
 
 **Wispers:**
 
->what is sleep? Sleep is where you basically lie with your eyes closed and halluciante for 8 hours,
-
->wake up and completly forget about it.
+>what is sleep? Sleep is where you basically lie with your eyes closed and halluciante for 8 hours, wake up and completly forget about it.
 
 ***
 
