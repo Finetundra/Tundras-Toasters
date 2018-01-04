@@ -18,7 +18,7 @@
 
 "#PRAISETHEMOONFUCKTHESUN"
 
-_
+***
 
 **FlamingDonut:**
 
@@ -30,13 +30,13 @@ _
 
 "#nerfTehDonut"
 
-_
+***
 
 **FlamingDonut:**
 
 "no i will not discrace my holy silence"
 
-_
+***
 
 **nobrainer:**
 
@@ -48,19 +48,19 @@ _
 
 "it hasn't gone far enough"
 
-_
+***
 
 **FlamingDonut:**
 
 "dude how many fucking mods you you have on this poor game? and I thought that my skyrim had it bad"
 
-_
+***
 
 **Wispers:**
 
 "DEDUCE THE FINGERTIPS OF WALTZ"
 
-_
+***
 
 **Finetundra:**
 
@@ -72,7 +72,7 @@ _
 
 "He's bringing sexy back"
 
-_
+***
 
 **FlamingDonut:**
 
@@ -100,13 +100,13 @@ _
 
 "I found that too, not enough fans"
 
-_
+***
 
 **nobrainer:**
 
 "Krem is a ruski spy"
 
-_
+***
 
 **TEAmPownage:**
 
@@ -118,30 +118,31 @@ Realizing that I was indeed, a fucking adult, I drove to kroger, and then I boug
 
 Now I'm back home, and I'm eating doughnuts. The ends"
 
-_
+***
 
 **secretaidenman:**
 
 "good to go?"
 
-_
+***
 
 **Wispers:**
 
 "what is sleep? Sleep is where you basically lie with your eyes closed and halluciante for 8 hours,
 
 wake up and completly forget about it."
-_
+
+***
 
 **Rickstopher:**
 
 "Diego just flushed the toilet and screamed Batman"
 
-_
+***
 
 **Finetundra:** "I have a terrible idea; let me just try something real quick..."
 
-_
+***
 
 **Windsage:**
 
