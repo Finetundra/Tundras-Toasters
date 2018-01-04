@@ -37,6 +37,29 @@ https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/Minecraft_Flight_Simulator-1.7.10-7.1.2.jar
 
+___________________________________________________________________________________________________
+
+### Added 03-18-2018
+
+### Botania:
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/Botania%20r1.8-249.jar
+
+### Journey Map: 
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/journeymap-1.7.10-5.1.4p1-unlimited.jar
+
+### Animation API: 
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/AnimationAPI-1.7.10-1.2.4.jar
+
+### Ars Magica 2:
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/1.7.10_AM2-1.4.0.009.jar
+
+### Forestry for Minecraft: 
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/forestry_1.7.10-4.2.16.64.jar
 
 ## [For Unabridged R.14]
 
