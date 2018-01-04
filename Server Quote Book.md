@@ -1,22 +1,24 @@
 #         Tundra's Toasters Server Quote Book: A Collection of Quotes from our Server
 
+***
+
 **Uranium:**
 
-"No"
+>"No"
 
-"Fuck off"
+>"Fuck off"
 
-"I only praise the moon"
+>"I only praise the moon"
 
-"Fuck off I'm not joining your cult"
+>"Fuck off I'm not joining your cult"
 
-*A few moments later*
+>*A few moments later*
 
-"Praise the sun"
+>"Praise the sun"
 
-*Even later*
+>*Even later*
 
-"#PRAISETHEMOONFUCKTHESUN"
+>"#PRAISETHEMOONFUCKTHESUN"
 
 ***
 
