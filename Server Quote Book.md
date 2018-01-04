@@ -4,10 +4,10 @@ Uranium: "No
           Fuck off
           I only praise the moon
           Fuck off I'm not joining your cult"
-          __A few moments later
-          "Praise the sun"
-          __Even later
-          #PRAISETHEMOONFUCKTHESUN
+          *A few moments later
+          *"Praise the sun"
+          *Even later
+          *#PRAISETHEMOONFUCKTHESUN
 
 FlamingDonut: "i have WoG"
        "I cast magic because it can't be parried"
@@ -16,7 +16,7 @@ TEAmPownage: "#nerfTehDonut"
 FlamingDonut: "no i will not discrace my holy silence"
 
 nobrainer: "Has science gone too far?"
-        __An actual playable tortilla record etched with a lazer cutter
+        *An actual playable tortilla record etched with a lazer cutter
 TheRagingRussian: "it hasn't gone far enough"
 
 FlamingDonut: "dude how many fucking mods you you have on this poor game? and I thought that my skyrim had it bad"
@@ -32,8 +32,8 @@ nobrainer: "nobrainer is more important"
            "Just sayin"
 FlamingDonut: "Hahahaha look Tundra you have so many fans"
 TEAmPownage: "I'm too lazy to find a picture of a bunch of wind turbines in a tundra, but just pretend I posted that"
-FlamingDonut: __Picture of a snowy tundra with wind turbines
-TEAmPownage: "I found that too, not enough fans"
+FlamingDonut: *Picture of a snowy tundra with wind turbines
+*TEAmPownage: "I found that too, not enough fans"
 
 nobrainer: "Krem is a ruski spy"
 
