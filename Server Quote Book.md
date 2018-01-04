@@ -142,6 +142,12 @@
 
 ***
 
+**Profsano**
+
+>I dreamed like I was in a game where My little pony was building a fort to defend against the something, but it was a trap to activate the sun to burn the turtles in the night. Then i was arrested and interragated by an evil guy who had all the bad guys in his jail that I captured. Once I pissed him off he sent yhe bsd guys after me but I managed to get away. I met patrik in a dream and hugged him glad he was ok. But he fell over and died and I walked away with a terrifed face
+
+***
+
 **Finetundra:**
 
 >I have a terrible idea; let me just try something real quick...
