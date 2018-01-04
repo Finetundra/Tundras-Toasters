@@ -33,10 +33,6 @@ https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/rftools-4.23.jar
 
-## [Misc.] : 
-
-https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/Minecraft_Flight_Simulator-1.7.10-7.1.2.jar
-
 ___________________________________________________________________________________________________
 
 ### Added 03-18-2018
@@ -70,3 +66,8 @@ https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/
 ### Power Converters 3: 
 
 https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/PowerConverters-1.7.10-2.11.jar
+
+## [Misc.] : 
+
+https://github.com/Finetundra/Tundras-Toasters/blob/master/Games/Minecraft/Mods/1.7.10/Minecraft_Flight_Simulator-1.7.10-7.1.2.jar
+
