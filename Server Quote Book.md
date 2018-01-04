@@ -140,3 +140,9 @@ _
 _
 
 **Finetundra:** "I have a terrible idea; let me just try something real quick..."
+
+_
+
+**Windsage:**
+
+"I AM A NUKE"
