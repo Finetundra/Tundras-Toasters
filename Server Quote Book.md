@@ -155,3 +155,9 @@
 **Windsage:**
 
 >I AM A NUKE
+
+***
+
+**Finetundra:**
+
+>Like I said, as humans we have no idea what we are fucking doing, but we are really good at it.
