@@ -175,3 +175,9 @@
 >So I managed to flood a discord server I'm not even in? Is that an accomplishment?
 
 ***
+
+**Wispers:**
+
+>So Microsoft Excel takes over the world? But skynet runs on linux. Does that mean skynet will run on Wine? Crisis averted.
+
+***
