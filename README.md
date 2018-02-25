@@ -48,3 +48,5 @@ Web Radio Streams (Compatable with most radio mods): http://dir.xiph.org/index.p
 Speed Test Powered by Netflix: https://fast.com/
 
 Ookla Speed Test: http://beta.speedtest.net/
+
+An Important PSA from John Mcafee: https://www.youtube.com/watch?v=bKgf5PaBzyg
