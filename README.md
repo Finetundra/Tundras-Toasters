@@ -3,6 +3,12 @@ This is the Tundra's Toasters Repo. It had literally nothing. Until now!
 
 Welcome to the Tundra's Toasters Github repo! This is an attempt by myself, Tundra, to create a central source of all of our files, softwares, or mods, that we frequently use on or around our Discord server. Links will be posted here, or we'll (try) to have them uploaded.
 
+## DnD
+
+Login Time Poll: [Here}(https://docs.google.com/forms/d/e/1FAIpQLSe_hPwVzbgIpZ11eWkHYFk8ThUU0ZTsJylPScbrE6IjJkMRrw/viewform?usp=sf_link)
+
+DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master/DnD_Resources_List.md)
+
 ## Minecraft Server:
 
 Current Modpack: CrundeeCraft (Version 1.1.0 | MC Version 1.7.10)
