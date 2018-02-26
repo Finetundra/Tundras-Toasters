@@ -50,3 +50,5 @@ Speed Test Powered by Netflix: https://fast.com/
 Ookla Speed Test: http://beta.speedtest.net/
 
 An Important PSA from John Mcafee: https://www.youtube.com/watch?v=bKgf5PaBzyg
+
+DnD Character Sheet: https://cdn.discordapp.com/attachments/417159152092053505/417492734341939200/PHB_v35_charsheet.pdf
