@@ -187,3 +187,9 @@
 >Disclaimer: This server is not held responsible for any and all of the negative ramifications related to or caused by conflict between you (Windsage) and Rickstopher.
 
 ***
+
+**5fem5**
+
+>Dude, lube up your circuits.
+
+***
