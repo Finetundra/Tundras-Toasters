@@ -181,3 +181,9 @@
 >So Microsoft Excel takes over the world? But skynet runs on linux. Does that mean skynet will run on Wine? Crisis averted.
 
 ***
+
+**Finetundra:**
+
+>Disclaimer: This server is not held responsible for any and all of the negative ramifications related to or caused by conflict between you (Windsage) and Rickstopher.
+
+***
