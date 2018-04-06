@@ -211,3 +211,29 @@
 >nobrainer is a dexfag confirmed
 
 ***
+
+**Payday 2 chat log**
+
+>SYSTEM: finetundra cheated by using an invalid mask.
+>SYSTEM: force ghost roan is joining.
+>force ghost roan: stealth i hope
+>finetundra: Who the fuck are you!?
+>finetundra: Get the guck out of my lobby
+>force ghost roan: big nigga
+>DuBbBeLLL PANG: BOTTOM TEXT
+>force ghost roan: oof
+>force ghost roan: oof
+>force ghost roan: oof
+>finetundra: Be gone!
+>force ghost roan: why
+>force ghost roan:tho
+>SYSTEM: force ghost roan has been kicked.
+
+***
+
+**Profsano**
+
+>Miss me?
+>Its me Profsoy Sauce, Daughter of excalibur and hero of time!
+
+***
