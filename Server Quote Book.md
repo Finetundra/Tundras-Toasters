@@ -222,7 +222,7 @@
 
 >finetundra: Who the fuck are you!?
 
->finetundra: Get the guck out of my lobby
+>finetundra: Get the fuck out of my lobby
 
 >force ghost roan: big niBBa
 
@@ -238,7 +238,7 @@
 
 >force ghost roan: why
 
->force ghost roan:tho
+>force ghost roan: tho
 
 >SYSTEM: force ghost roan has been kicked.
 
