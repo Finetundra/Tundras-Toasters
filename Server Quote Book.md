@@ -254,3 +254,7 @@
 >TEAmPownage: You are being a big vagina man.
 
 ***
+
+>FlamingDonut: How the fuck are you able to speak Japanese with a Swedish accent?!
+
+***
