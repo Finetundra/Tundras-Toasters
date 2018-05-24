@@ -41,6 +41,8 @@ Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-
 
 Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
 
+7zip (Windows 64bit): https://www.7-zip.org/a/7z1805-x64.msi
+
 SCP Toolkit (Playstation 3 & 4 controller drivers): https://github.com/Finetundra/Tundras-Toasters/raw/master/Software/ScpToolkit_Setup.exe
 
 Steam AppManifest Generator: https://github.com/dotfloat/steam-appmanifest
