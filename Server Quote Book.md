@@ -258,3 +258,7 @@
 >FlamingDonut: How the fuck are you able to speak Japanese with a Swedish accent?!
 
 ***
+
+>Berry: Is Ornstein Jewsih?
+
+***
