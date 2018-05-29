@@ -262,3 +262,7 @@
 >Berry: Is Ornstein Jewsih?
 
 ***
+
+>Finetundra: Just because somethings sticks, doesn't mean it's stuck.
+
+***
