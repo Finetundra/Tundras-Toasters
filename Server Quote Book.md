@@ -270,3 +270,7 @@
 >Finetundra: Please assume that any flower pots you encounter will attempt to generate a dungeon around you.
 
 ***
+
+>Windsage: [playing dark souls 1] When my character gets hurt it sounds like he is taking the biggest relief of his life."
+
+***
