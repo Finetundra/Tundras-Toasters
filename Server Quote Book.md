@@ -251,30 +251,44 @@
 
 ***
 
->TEAmPownage: You are being a big vagina man.
+**TEAmPownage**
+
+>You are being a big vagina man.
 
 ***
 
->FlamingDonut: How the fuck are you able to speak Japanese with a Swedish accent?!
+**FlamingDonut**
+
+>How the fuck are you able to speak Japanese with a Swedish accent?!
 
 ***
 
->Berry: Is Ornstein Jewsih?
+**Berry**
+
+>Is Ornstein Jewsih?
 
 ***
 
->Finetundra: Just because somethings sticks, doesn't mean it's stuck.
+**Finetundra**
+
+>Just because somethings sticks, doesn't mean it's stuck.
 
 ***
 
->Finetundra: Please assume that any flower pots you encounter will attempt to generate a dungeon around you.
+**Finetundra
+
+>Please assume that any flower pots you encounter will attempt to generate a dungeon around you.
 
 ***
 
->Windsage: [playing dark souls 1] When my character gets hurt it sounds like he is taking the biggest relief of his life."
+**Windsage**
+
+>[playing dark souls 1] When my character gets hurt it sounds like he is taking the biggest relief of his life."
 
 ***
 
->Finetundra: I spend so much time trying to break Windows it's a wonder my desk isn't covered in glass.
+**Fintundra**
+
+>I spend so much time trying to break Windows it's a wonder my desk isn't covered in glass.
 
 ***
