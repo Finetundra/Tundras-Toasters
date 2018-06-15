@@ -274,3 +274,7 @@
 >Windsage: [playing dark souls 1] When my character gets hurt it sounds like he is taking the biggest relief of his life."
 
 ***
+
+>Finetundra: I spend so much time trying to break Windows it's a wonder my desk isn't covered in glass.
+
+***
