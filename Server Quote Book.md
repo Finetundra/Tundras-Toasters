@@ -275,7 +275,7 @@
 
 ***
 
-**Finetundra
+**Finetundra**
 
 >Please assume that any flower pots you encounter will attempt to generate a dungeon around you.
 
