@@ -25,9 +25,9 @@ Once it has finished downloading select the "Instances" tab and then select "Ope
 
 Open your web browser and download the file from [here](https://drive.google.com/open?id=1NsnqqL05Di384SDLszjxpI0LohKE4Mq2). This contains the extra mods you'll need. 
 
-Once it's been downloaded, you'll find the file in your Downloads folder. Navigate to your Downloads folder and locate the file. Then right click the file and go to the 7zip menu and select the option "Extract to "Test_Pack_0001\"" option. It'll request that you provide a password. Please ask one of the members of the Discord channel for the password. After the file has been extracted, navigate to the new folder in your Downloads folder that shares the name of the file. 
+Once it's been downloaded, you'll find the file in your Downloads folder. Navigate to your Downloads folder and locate the file. Then right click the file and go to the 7zip menu and select the option "Extract to "Test_Pack_0002\"" option. It'll request that you provide a password. Please ask one of the members of the Discord channel for the password. After the file has been extracted, navigate to the new folder in your Downloads folder that shares the name of the file. 
 
-If you've made it this far, great! You're almost done. Now the last step that you need to do is drag the "mods" folder from Test_Pack_0001 into the ResonantRise folder that should already be open in another window. When prompted, select "Replace the files in the destination" 
+If you've made it this far, great! You're almost done. Now the last step that you need to do is drag the "mods" folder from Test_Pack_0002 into the ResonantRise folder that should already be open in another window. When prompted, select "Replace the files in the destination" 
 
 ### End
 
