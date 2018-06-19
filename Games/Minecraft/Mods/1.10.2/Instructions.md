@@ -23,7 +23,7 @@ Once it has finished downloading select the "Instances" tab and then select "Ope
 
 *First you'll need something that can open 7zip files. Steps will vary for different archive managers, so the following instructions will address 7zip on Windows ONLY. If you have any questions, or use a different manager, or are unsure if you have one, or which one you do have, questions may be directed to Finetundra.*
 
-Open your web browser and download the file from [here](https://drive.google.com/open?id=1DnuOcCqb-2ILew-yfDG4SA_God489V7Z). This contains the extra mods you'll need. 
+Open your web browser and download the file from [here](https://drive.google.com/open?id=1NsnqqL05Di384SDLszjxpI0LohKE4Mq2). This contains the extra mods you'll need. 
 
 Once it's been downloaded, you'll find the file in your Downloads folder. Navigate to your Downloads folder and locate the file. Then right click the file and go to the 7zip menu and select the option "Extract to "Test_Pack_0001\"" option. It'll request that you provide a password. Please ask one of the members of the Discord channel for the password. After the file has been extracted, navigate to the new folder in your Downloads folder that shares the name of the file. 
 
