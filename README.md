@@ -60,3 +60,5 @@ Ookla Speed Test: http://beta.speedtest.net/
 An Important PSA from John Mcafee: https://www.youtube.com/watch?v=bKgf5PaBzyg
 
 DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master/DnD_Resources_List.md)
+
+FTB Launcher (Should work on all platforms): http://ftb.cursecdn.com/FTB2/launcher/FTB_Launcher.jar
