@@ -11,9 +11,9 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Current Modpack: CrundeeCraft (Version 1.1.0 | MC Version 1.7.10)
+Current Modpack: Sky Factory (Version 3.0.15 | MC Version 1.10.2)
 
-Launcher: ATLauncher
+Launcher: FTB
 
 Server Address: virustrand.com
 
