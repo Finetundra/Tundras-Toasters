@@ -62,3 +62,5 @@ An Important PSA from John Mcafee: https://www.youtube.com/watch?v=bKgf5PaBzyg
 DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master/DnD_Resources_List.md)
 
 FTB Launcher (Should work on all platforms): http://ftb.cursecdn.com/FTB2/launcher/FTB_Launcher.jar
+
+Driver Signature Enforcement Overrider: [Tool for bypassing 64bit Windows Vista-10 Driver Signature Enforcement](https://github.com/Finetundra/Tundras-Toasters/blob/master/Software/DSEO.md)
