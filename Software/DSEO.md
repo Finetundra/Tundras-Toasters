@@ -1,4 +1,4 @@
-##From the old DSEO webpage:
+## From the old DSEO webpage:
 
 It seems that Microsoft has forgotten end users when it introduced a very restricted module of driver signature enforcement in Windows Vista and Windows 7. All drivers and system files must be digitally verified or they cannot run when using both 32-bit and 64-bit versions of Windows Vista and Windows 7. In the past, it was possible to turn that feature off in Vista, but due to new kernel security updates, it is impossible to turn it off without degrading security and stability of your operating system or putting your master boot records in risk by using other software alternatives.
 
@@ -36,4 +36,4 @@ After you enabled Test Mode and added signatures to the required system files, t
 
 Note: DSEO requires administrative privileges (Run as administrator).
 
-#[Download](https://github.com/Finetundra/Tundras-Toasters/blob/master/Software/dseo13b.exe)
+# [Download](https://github.com/Finetundra/Tundras-Toasters/blob/master/Software/dseo13b.exe)
