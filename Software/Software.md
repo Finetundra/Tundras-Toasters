@@ -1,7 +1,7 @@
-### Folder for Software and utilites
+# Folder for Software and utilites
 
 
-# Links to other software:
+### Links to other software:
 
 https://gitlab.com/sebaro/ViewTube
 
