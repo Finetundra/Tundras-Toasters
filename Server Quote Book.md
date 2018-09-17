@@ -292,3 +292,16 @@
 >I spend so much time trying to break Windows it's a wonder my desk isn't covered in glass.
 
 ***
+
+**Rickstopher:**
+
+>Donuts and debit cards, that's all you ever need in life.
+
+***
+
+**Rickstopher:**
+
+>Playing minecraft:
+>I'm getting fucked by a skeleton. One could say that I'm getting boned.
+
+***
