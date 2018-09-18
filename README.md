@@ -33,9 +33,9 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ## Useful Links:
 
-Oracle Java JRE 8: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+Oracle Java JRE 8: https://thevoxel.net/~toasters/jre-8u181-windows-x64.exe
 
-Oracle Java JDK 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Oracle Java JDK 8: https://thevoxel.net/~toasters/jdk-8u181-windows-x64.exe
 
 Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html
 
