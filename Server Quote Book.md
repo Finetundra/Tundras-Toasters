@@ -305,3 +305,29 @@
 >I'm getting fucked by a skeleton. One could say that I'm getting boned.
 
 ***
+
+**TEAmPownage**
+
+>We assume that the volumes of all represented coinage are equal, this allows us to find an average monetary density (units of dollars >per volume: $/cm^3). This is ultimately a tenuous assumption to make, but a neccessary one without sampling.
+
+>Monetary Density
+>Penny: $0.01/0.35cm^3
+>Nickel: $0.05/.719cm^3
+>Dime: $0.10/.096cm^3
+
+>This gives us an average monetary density of 0.353$/cm^3. (Complain to whispers why we didn't include quarters)
+
+>We have 4 gallons of space being occupied by coins, which is 15142cm^3
+
+>If we assume 100% packing efficiency, we have a total of $5345.13.
+>Considering that perfect cylindrical hexagonal packing has a planar packing fraction of 90%, this is at the very least, an over->estimate.
+>We are of course, interested in volumetric packing (particularly, random volumetric packing,) and thus, we should refer to something >like: https://link.springer.com/article/10.1007/s11434-009-0650-0
+
+>The above states that for a cylinder, the upper bound of random packing density is 72%. Considering that these are non-uniform >cylinders, an appropriate range should be [60%, 70%]
+
+>We can very simply create a linear function that will yield a total monetary amount from a given packing fraction (percentage/100) by:
+>T = (5345.13) * p
+
+>Thus, we can assert loosely that there somewhere on the order of $3210-$3741 in that jug.
+
+***
