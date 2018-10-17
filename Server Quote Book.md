@@ -306,7 +306,7 @@
 
 ***
 
-**TEAmPownage**
+**TEAmPownage:**
 
 >We assume that the volumes of all represented coinage are equal, this allows us to find an average monetary density (units of dollars >per volume: $/cm^3). This is ultimately a tenuous assumption to make, but a neccessary one without sampling.
 
