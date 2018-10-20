@@ -11,11 +11,13 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Current Modpack: ~Sky Factory (Version 3.0.15 | MC Version 1.10.2)~ Server is offline until further notice
+Server is offline until further notice
 
-Launcher: FTB
+~Current Modpack: Sky Factory (Version 3.0.15 | MC Version 1.10.2)~ 
 
-Server Address: virustrand.com
+~Launcher: FTB~
+
+~Server Address: virustrand.com~ 
 
 ## Minecraft Mods: 
 
