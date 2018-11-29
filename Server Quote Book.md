@@ -331,3 +331,8 @@
 >Thus, we can assert loosely that there somewhere on the order of $3210-$3741 in that jug.
 
 ***
+**Finetundra:**
+
+>What my plan is, is... what my plan has always been! Which is to find out what it is.
+
+***
