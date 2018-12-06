@@ -11,7 +11,15 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Server is offline until further notice
+A temporary server is online: 
+
+Current Modpack: SevTech Ages (Version 3.0.8 | MC Version 1.12.2
+
+Launcher: ATLauncher
+
+Server Address: sectiontest.ddns.net
+
+-Server is offline until further notice-
 
 ~Current Modpack: Sky Factory (Version 3.0.15 | MC Version 1.10.2)~ 
 
