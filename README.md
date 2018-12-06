@@ -19,7 +19,7 @@ Launcher: ATLauncher
 
 Server Address: sectiontest.ddns.net
 
--Server is offline until further notice-
+~Server is offline until further notice~
 
 ~Current Modpack: Sky Factory (Version 3.0.15 | MC Version 1.10.2)~ 
 
