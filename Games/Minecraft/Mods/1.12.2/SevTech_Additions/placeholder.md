@@ -1,1 +1,1 @@
-gah
+There has now been a total of 4 people asking what the placeholder file is. This file is a placeholder file. It holds a place, Here. In this directory. It's purpose is to hold this place, and only to hold this place. It has no bearing on you, nor the other files in the folder. Please be kind to the place holder file and don't stare at it. It wants to be left alone. To do it's job. Which is to hold this place. 
