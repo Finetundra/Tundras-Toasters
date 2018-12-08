@@ -336,3 +336,8 @@
 >What my plan is, is... what my plan has always been! Which is to find out what it is.
 
 ***
+**Nobrainer:**
+
+>This is your CPU; This is your CPU on Minecraft: https://cdn.discordapp.com/attachments/123995612969435136/520339509066596365/unknown.png
+
+***
