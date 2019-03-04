@@ -341,3 +341,14 @@
 >This is your CPU; This is your CPU on Minecraft: https://cdn.discordapp.com/attachments/123995612969435136/520339509066596365/unknown.png
 
 ***
+**Windsage:**
+
+>I'm trying _so hard_ to understand
+
+***
+
+**Finetundra:** 
+
+>But Rickstopher, he _is_ Batman
+
+***
