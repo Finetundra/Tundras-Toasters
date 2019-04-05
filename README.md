@@ -78,3 +78,5 @@ Driver Signature Enforcement Overrider: [Tool for bypassing 64bit Windows Vista-
 Archive of software (Genuine Microsoft ISOs and more): [`The Eye` File archive](https://the-eye.eu/public/)
 
 LAME Windows MP3 Encoder Codec Installer: [Lame v3.99.3 (for Windows)](https://lame.buanzo.org/Lame_v3.99.3_for_Windows.exe)
+
+VLSM Calculator: [vlsm-calc.net](http://vlsm-calc.net)
