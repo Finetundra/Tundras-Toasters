@@ -11,13 +11,13 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-A temporary server is online: 
+Server is online: 
 
-Current Modpack: SevTech Ages (Version 3.0.8 | MC Version 1.12.2
+Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)
 
-Launcher: ATLauncher
+Launcher: FTB Launcher
 
-Server Address: sectiontest.ddns.net
+Server Address: tundra.at.thevoxel.net
 
 ~Server is offline until further notice~
 
