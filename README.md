@@ -43,7 +43,7 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ## Useful Links:
 
-Oracle Java JRE 8: 
+### Oracle Java JRE 8: 
 
   Windows: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-windows-x64.exe
   
@@ -53,7 +53,7 @@ Oracle Java JRE 8:
          https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.tar.gz (Source)
          
          
-Oracle Java JDK 8: 
+### Oracle Java JDK 8: 
 
   Windows: https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-windows-x64.exe
   
@@ -62,9 +62,14 @@ Oracle Java JDK 8:
   Linux:  https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-linux-x64.rpm (RPM)
           https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-linux-x64.tar.gz (Source)
 
-Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html
+<!--- Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html --->
 
-Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
+<!--- Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html --->
+
+---
+
+### Other Utilities:
+
 
 7zip (Windows 64bit): https://www.7-zip.org/a/7z1805-x64.msi
 
