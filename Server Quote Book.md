@@ -361,42 +361,43 @@
 
 **Windsage, themachoman997, Finetundra, GHFG_Resse**
 
->Windsage:3335 S Cobb Dr, Smyrna, GA 30080
-waffle house tomorrow night this location. be there or be square.
+>**Windsage**:3335 S Cobb Dr, Smyrna, GA 30080
+Waffle House tomorrow night this location. Be there or be square.
 
 
->themachoman997: and so begins our death cult
+>**themachoman997**: And so begins our death cult
 
->GHFG_Resse:https://cdn.discordapp.com/attachments/501851639305601054/601275031573495847/unknown.png
+>**GHFG_Resse**:https://cdn.discordapp.com/attachments/501851639305601054/601275031573495847/unknown.png
 
 
->*themachoman997 starts to laugh violently, and out of control. Moments later Windsage joins in on the laughter. Finetundra starts to chuckle in.*
+>**themachoman997** starts to laugh violently, and out of control. Moments later Windsage joins in on the laughter. Finetundra starts to chuckle in.*
 
->Windsage: @GHFG_Reese you broke @Earl of Squirrels he is dying in chat.
+>**Windsage**: **GHFG_Reese** you broke **Earl of Squirrels** he is dying in chat.
 
-> *Momenst pass buy and Windsage and themachoman997 start to analize the photo.*
+> *Moments pass by and **Windsage** and **themachoman997** start to analyze the photo.*
 
->themachoman997: Who is this man?! why isn't he wearing a shirt? Why is he hidding his greatness behind this tree.
+>**themachoman997**: Who is this man?! Why isn't he wearing a shirt? Why is he hiding his greatness behind this tree.
 
->Windsage: Why is he hidding his greatnes from us. I want to be exsposed.
+>**Windsage**: Why is he hiding his greatness from us. I want to be exposed.
 
 > *Hardcore laughter Continues*
 
-> (themachoman997 speacks up from the laughter)
+> (**themachoman997** speaks up from the laughter)
 
->themachoman997: Aww god dammit someone put a ring on it! That lucky Bitch!
+>**themachoman997**: Aww god dammit someone put a ring on it! That lucky bitch!
 
-> *More laughter erups from the chat room from everyone.*
+> *More laughter erupts from the chat room from everyone.*
 
-> (Minutes bass by and things have seen to calm down, Or so we thought. Finetundra checks on ash after he catches his breath)
->Finetundra:You ok Ash?
+> (Minutes pass by and things seem to have calmed down, or so we thought. **Finetundra** checks on Ash after he catches his breath)
 
-> (themachoman997 responds recuvering his breath from weezing)
+>**Finetundra**:You ok Ash?
 
->themachoman997: Yeha I am fine. I was possesed by...
+> (**themachoman997** responds recovering his breath from weezing)
 
-> (Windsage Speaks in unicen with themachoman997)
+>**themachoman997**: Yeah I am fine. I was possesed by...
 
->themachoman997,Windsage: this man!!
+> (**Windsage** speaks in unison with **themachoman997**)
+
+>**themachoman997,Windsage**: This man!!
 
 > (Mad laughter continues.)
