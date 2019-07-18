@@ -388,16 +388,16 @@ Waffle House tomorrow night this location. Be there or be square.
 
 > *More laughter erupts from the chat room from everyone.*
 
-> (Minutes pass by and things seem to have calmed down, or so we thought. **Finetundra** checks on Ash after he catches his breath)
+> _Minutes pass by and things seem to have calmed down, or so we thought. **Finetundra** checks on Ash after he catches his breath_
 
 >**Finetundra**:You ok Ash?
 
-> (**themachoman997** responds recovering his breath from weezing)
+> _**themachoman997** responds recovering his breath from weezing_
 
 >**themachoman997**: Yeah I am fine. I was possesed by...
 
-> (**Windsage** speaks in unison with **themachoman997**)
+>  _**Windsage** speaks in unison with **themachoman997**_
 
 >**themachoman997,Windsage**: This man!!
 
-> (Mad laughter continues.)
+> *Mad laughter continues.*
