@@ -357,3 +357,27 @@
 >Aaaarrggghh is just RRREEEEEE for Pirates.
 
 ***
+
+
+**Windsage, themachoman997, Finetundra, GHFG_Resse**
+
+>Windsage:3335 S Cobb Dr, Smyrna, GA 30080
+waffle house tomorrow night this location. be there or be square.
+>themachoman997: and so begins our death cult
+>GHFG_Resse:https://cdn.discordapp.com/attachments/501851639305601054/601275031573495847/unknown.png
+>*themachoman997 starts to laugh violently, and out of control. Moments later Windsage joins in on the laughter. Finetundra starts to chuckle in.*
+>Windsage: @GHFG_Reese you broke @Earl of Squirrels he is dying in chat.
+> *Momenst pass buy and Windsage and themachoman997 start to analize the photo.*
+>themachoman997: Who is this man?! why isn't he wearing a shirt? Why is he hidding his greatness behind this tree.
+>Windsage: Why is he hidding his greatnes from us. I want to be exsposed.
+> *Hardcore laughter Continues*
+> (themachoman997 speacks up from the laughter)
+>themachoman997: Aww god dammit someone put a ring on it! That lucky Bitch!
+> *More laughter erups from the chat room from everyone.*
+> (Minutes bass by and things have seen to calm down, Or so we thought. Finetundra checks on ash after he catches his breath)
+>Finetundra:You ok Ash?
+> (themachoman997 responds recuvering his breath from weezing)
+>themachoman997: Yeha I am fine. I was possesed by...
+> (Windsage Speaks in unicen with themachoman997)
+>themachoman997,Windsage: this man!!
+> (Mad laughter continues.)
