@@ -66,6 +66,10 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 <!--- Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html --->
 
+###Zulu (Azul Systems) JRE:
+
+###Zulu (Azul Systems) JDK:
+
 ---
 
 ### Other Utilities:
