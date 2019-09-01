@@ -66,9 +66,15 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 <!--- Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html --->
 
-###Zulu (Azul Systems) JRE:
+### Zulu (Azul Systems) JRE:
 
-###Zulu (Azul Systems) JDK:
+  Winndows: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25-ca-jre8.0.222-win_x64.msi
+
+### Zulu (Azul Systems) JDK:
+
+  Windows: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25-ca-jdk8.0.222-win_x64.msi
+  
+  macOS: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25_1-ca-jdk8.0.222-macosx_x64.dmg
 
 ---
 
