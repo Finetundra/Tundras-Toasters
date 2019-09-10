@@ -110,3 +110,6 @@ Archive of software (Genuine Microsoft ISOs and more): [`The Eye` File archive](
 LAME Windows MP3 Encoder Codec Installer: [Lame v3.99.3 (for Windows)](https://lame.buanzo.org/Lame_v3.99.3_for_Windows.exe)
 
 VLSM Calculator: [vlsm-calc.net](http://vlsm-calc.net)
+---
+### Repositories
+RedHat Enterprise Linux 8: https://thevoxel.net/repo/rhel8-install/
