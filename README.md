@@ -31,7 +31,7 @@ Server Address: tundra.at.thevoxel.net
 
 ### MC Mod Downloader Tools
 
-#### Please place these into the approiate launcher folder
+#### Please place these into the approiate launcher folder and then run it
 
 ##### ATLauncher:
 
