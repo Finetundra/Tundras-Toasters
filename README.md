@@ -11,11 +11,11 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Server is online: 
+Server is on standby: 
 
-Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)
+~Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)~
 
-Launcher: FTB Launcher
+~Launcher: FTB Launcher~
 
 Server Address: tundra.at.thevoxel.net
 
