@@ -13,19 +13,19 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 Server is on standby: 
 
-~Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)~
+<!-- ~Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)~ -->
 
-~Launcher: FTB Launcher~
+<!-- ~Launcher: FTB Launcher~ -->
 
 Server Address: tundra.at.thevoxel.net
 
-~Server is offline until further notice~
+<!-- ~Server is offline until further notice~ -->
 
-~Current Modpack: Sky Factory (Version 3.0.15 | MC Version 1.10.2)~ 
+<!-- ~Current Modpack: Sky Factory (Version 3.0.15 | MC Version 1.10.2)~ -->
 
-~Launcher: FTB~
+<!-- ~Launcher: FTB~ -->
 
-~Server Address: virustrand.com~ 
+<!-- ~Server Address: virustrand.com~ -->
 
 ## Minecraft Mods: 
 
