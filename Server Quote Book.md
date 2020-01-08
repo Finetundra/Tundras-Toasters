@@ -403,11 +403,11 @@ Waffle House tomorrow night this location. Be there or be square.
 > *Mad laughter continues.*
 
 ***
->**Machoman997**: We all have a monkey on our bike.
+>**themachoman997**: We all have a monkey on our bike.
 
 ***
 
->**Windsage**: You are so evil, you must of had strawberrymilk not to long ago..
+>**Windsage**: You are so evil, you must of had strawberrymilk not too long ago..
 
 ***
 
