@@ -407,10 +407,10 @@ Waffle House tomorrow night this location. Be there or be square.
 
 ***
 
-**Windsage**:You are so evil, you must of had strawberrymilk not to long ago..
+>**Windsage**: You are so evil, you must of had strawberrymilk not to long ago..
 
 ***
 
-**Windsage**:Sorry, I am immune to butter.
+>**Windsage** Sorry, I am immune to butter.
 
 ***
