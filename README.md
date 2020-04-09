@@ -13,11 +13,15 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 Server is on standby: 
 
+Current Modpack: Enigmatica 2 Expert (Version 1.74 | MC Version 1.12.2) 
+
+Launcher: ATLauncher *
+
 <!-- ~Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)~ -->
 
 <!-- ~Launcher: FTB Launcher~ -->
 
-Server Address: tundra.at.thevoxel.net
+Server Address: sectiontest.ddns.net
 
 <!-- ~Server is offline until further notice~ -->
 
@@ -26,6 +30,8 @@ Server Address: tundra.at.thevoxel.net
 <!-- ~Launcher: FTB~ -->
 
 <!-- ~Server Address: virustrand.com~ -->
+
+* *Additional instructions required. Please contact server admin if you require assistance*
 
 ## Minecraft Mods: 
 
@@ -57,9 +63,15 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ### Oracle Java JRE 8: 
 
-  Windows: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-windows-x64.exe
+##### Note: The Windows and macOS Java downloads are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. 
+
+  <!-- Windows: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-windows-x64.exe --!>
   
-  macOS: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-macosx-x64.dmg
+  <!-- macOS: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-macosx-x64.dmg --!>
+  
+  Windows: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-windows-x64.exe
+  
+  macOS: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-macosx-x64.dmg
   
   Linux: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.rpm (RPM)    
   Tar:   https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.tar.gz (Source)
