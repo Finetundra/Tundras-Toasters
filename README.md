@@ -65,16 +65,20 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ##### Note: The Windows and macOS Java downloads are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. 
 
+
+
   <!-- Windows: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-windows-x64.exe --!>
   
   <!-- macOS: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-macosx-x64.dmg --!>
   
-  Windows: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-windows-x64.exe
+ Windows: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-windows-x64.exe
   
-  macOS: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-macosx-x64.dmg
   
-  Linux: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.rpm (RPM)    
-  Tar:   https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.tar.gz (Source)
+  
+ macOS: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-macosx-x64.dmg
+  
+ Linux: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.rpm (RPM)    
+ Tar:   https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.tar.gz (Source)
          
          
 ### Oracle Java JDK 8: 
@@ -92,7 +96,7 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ### Zulu (Azul Systems) JRE:
 
-  Winndows: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25-ca-jre8.0.222-win_x64.msi
+  Windows: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25-ca-jre8.0.222-win_x64.msi
 
 ### Zulu (Azul Systems) JDK:
 
