@@ -45,7 +45,7 @@ WC Tech and Magic:
 
 macOS: https://github.com/Finetundra/Tundras-Toasters/raw/master/Games/Minecraft/Mod_Grabbers/WC-TM-Mods.app.zip
 
-Windows: 
+
 
 ### MC Mods By Version (Lists): 
 
