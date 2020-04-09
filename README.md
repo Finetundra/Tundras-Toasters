@@ -63,19 +63,15 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ### Oracle Java JRE 8: 
 
-##### Note: The Windows and macOS Java downloads are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. 
+##### Note: The Windows and macOS Java downloads are provided by the Adobe ColdFusion Support Center, as Oracle now requires anOracle account to download Oracle Java. The provided downloads are subject to change. 
+ 
 
 
+   Windows: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-windows-x64.exe
+  
+   macOS: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-macosx-x64.dmg 
+  
 
-  <!-- Windows: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-windows-x64.exe --!>
-  
-  <!-- macOS: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-macosx-x64.dmg --!>
-  
- Windows: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-windows-x64.exe
-  
-  
-  
- macOS: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-macosx-x64.dmg
   
  Linux: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.rpm (RPM)    
  Tar:   https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.tar.gz (Source)
