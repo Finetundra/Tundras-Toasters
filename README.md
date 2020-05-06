@@ -143,3 +143,4 @@ VLSM Calculator: [vlsm-calc.net](http://vlsm-calc.net)
 ### Repositories
 RedHat Enterprise Linux 8: https://thevoxel.net/repo/rhel8-install/
 
+Collection of utilities related to Adobe ColdFusion(this is where our Oracle Java downloads go): https://www.adobe.com/support/coldfusion/downloads.html#additionalThirdPartyInstallers
