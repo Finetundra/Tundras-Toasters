@@ -414,3 +414,223 @@ Waffle House tomorrow night this location. Be there or be square.
 >**Windsage** Sorry, I am immune to butter.
 
 ***
+
+_The following is a record of events that transpired on June 11, 2020. Edits may need to be made for the sake of streamlining_
+
+>[10:32 AM] **sunnmann**: fucking fix the server
+
+>[10:41 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: @Finetundra
+
+>[10:41 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Poke
+
+>[10:41 AM] **sunnmann**: bruh i can fix this server in 5 minutes
+
+>[10:42 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: What the hell are you even droning on about
+
+>[10:43 AM] **sunnmann**: clearly i shouldnt explain cause you wouldnt get it
+
+>[10:44 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Why would I not get it...?
+
+>[10:44 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Is this some sort of inside joke I dont know about or??
+
+>[10:44 AM] **sunnmann**: no
+
+>[10:45 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Then do explain
+
+>[10:45 AM] **sunnmann**: cant
+
+>[10:45 AM] **sunnmann**: in like a few seconds
+
+>[10:48 AM] **sunnmann**: ok i needed 2 hands to type this i was eating pineapple
+
+>[10:50 AM] **sunnmann**: so you see how the member list is just a bunch of names and then there is different color names and its not organized, and you guys dont have auto roles setup or any categories or dedicated rules, or even moderation bots and you guys have like 70 something members and you still have notification setting set to all instead of mentions only even though most people dont want to hear a notification noise every minute when someone talks
+
+>[10:50 AM] **sunnmann**: thats what i mean by fix
+
+>[10:51 AM] **Shit Disturber**: Fuck off
+
+>[10:51 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Ok? This is just a casual ass discord, no one really cares too much
+
+>[10:52 AM] **sunnmann**: @Shit Disturber thats good for you, and maybe theres gonna be more people like me that want it fixed but ok
+
+>[10:52 AM] **Shit Disturber**: Buddy I been here a good while and your the first to knit pick about details that mean nothing
+
+>[10:53 AM] **Finetundra**: Can it the both of you
+
+>[10:53 AM] **sunnmann**: can what be the both of us
+
+>[10:53 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: He means shut up
+
+>[10:53 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: That version of Can it
+
+>[10:54 AM] **sunnmann**: no no i uh didnt really ask you
+
+>[10:55 AM] **Kairobi**: Sunnmann this isn’t a clan server. It’s a server of friends.
+
+>[10:55 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Well, you can be a cunt all you want
+
+>[10:55 AM] **Kairobi**: Don’t be a dick. If you don’t like it, leave.
+
+>[10:55 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: I was just telling you what he meant
+
+>[10:55 AM] **MTReese**: Who's this guy and why is he complaining
+
+>[10:55 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Some fag
+
+>[10:55 AM] **sunnmann**: well how do you know what he meant and what you think he meant is the same thing
+
+>[10:55 AM] **Kairobi**: Because “can it” means shut the fuck up, and it’s his server.
+
+>[10:56 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Tundra dealt with it
+
+>[10:56 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Balance has returned
+
+>[10:56 AM] **Kairobi**: He gone?
+
+>[10:56 AM] **MTReese**: All is right in the world
+
+>[10:57 AM] **MTReese**: As you were gents lmao
+
+>[10:57 AM] **Kairobi**: Weird turn. He was cool last night. Wonder what crawled up his ass.
+
+>[10:57 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: His thumbs probably
+
+>[10:58 AM] **Captain nobrainer**: All hail @Finetundra
+
+>[10:58 AM] **MTReese**: His ROBLOX GF broke up with him and he was pissy pants
+
+>[10:58 AM] **Shit Disturber**: We hardly knew yee Gogeta Blue
+
+>[10:58 AM] **Shit Disturber**: But good riddance all the same
+
+>[10:59 AM] **MTReese**: https://youtu.be/_QkKOTsW8jk
+
+>[11:00 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Glorious
+
+>[11:00 AM] **MTReese**: Maybe him and Teo can be good buddies
+
+>[11:00 AM] **Captain nobrainer**: On a serious note though. Over the years, this server has gone from quite literally a few friends to a bustling melding pot of comrades all over the world. Love all of you, keep it classy
+
+>[11:01 AM] **MTReese**: yessirrrrr love you too my guy
+
+>[11:01 AM] **Shit Disturber**: James using the ban hammer on that pleb
+
+>[11:01 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: He's in quarantine rn
+
+>[11:02 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Not sure if hes going to come out of it anytime soon
+
+>[11:02 AM] **MTReese**: Teo: heavy breathing hi
+
+>[11:04 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: If I hear Teo's voice again it'll be too soon
+
+>[11:05 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: That dude found me on steam within 5 minutes of meeting me when he broke out of quarantine that one time
+
+>[11:05 AM] **Shit Disturber**: God that’s just creepy
+
+>[11:05 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Ik
+
+>[11:05 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: And my discord name at the time wasnt my steam name
+
+>[11:06 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: And its not linked to discord
+
+>[11:06 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: So Idk how the fuck he found me
+
+>[11:06 AM] **Shit Disturber**: You may want a restraining order
+
+>[11:07 AM] ***𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Probably, shit
+
+>[11:07 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Might learn where I live next lmao
+
+>[11:19 AM] **Kairobi**: I gotta say, this is prettymuch the only discord I use now
+
+>[11:19 AM] **Kairobi**: Because I actually like everyone here :joy: even uranium. A bit.
+
+>[11:20 AM] **MTReese**: We love to hate Uranium lol
+
+>[11:20 AM] **Shit Disturber**: Same man, we’re bro’s till the end
+
+>[11:21 AM] **Kairobi**: “Fix the server”
+quarantined
+Tundra: “fix’t”
+
+>[11:21 AM] **Shit Disturber**: :rofl:
+
+>[11:21 AM] **Kairobi**: The monkey paw of discord admins.
+
+>[11:21 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: Hehehe
+
+>[11:21 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸: God I love this discord**
+
+>[11:21 AM] **Shit Disturber**: That man wasn’t ready for a vibe check
+
+>[11:22 AM] **MTReese**: he got the PIMP slap
+
+>[11:23 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: https://tenor.com/view/youve-woken-the-beast-gif-11367009
+
+>[11:23 AM] **Kairobi**: I’m glad I decided to open the app when I did.
+
+>[11:23 AM] **Kairobi**: Or I’d have missed it.
+
+>[11:23 AM] **Captain nobrainer**: Everyone here has a certain charm
+
+>[11:23 AM] **Kairobi**: Felt a disturbance in the force.
+
+>[11:24 AM] **Captain nobrainer**: Even if I don’t have the time to spend here I used to
+
+>[11:24 AM] **MTReese**: I heard a ping but thought it was a meme from shitposter so I click on Discord and I see everything in general and I'm like oh shit hold up lol
+
+>[11:24 AM] **Shit Disturber**: Did we just  witness a moment in history?
+
+>[11:24 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: We slapped his shit pretty good
+
+>[11:25 AM] **Kairobi**: I think we’re all closer now through our shared struggles.
+
+>[11:25 AM] **𝓥𝓮𝔂𝓻𝓻𝓸𝓷 𝓐𝔀𝓸𝓸𝓸**: https://tenor.com/view/the-smpsons-homer-hmer-spimson-love-you-gif-4902103
+
+>[11:25 AM] **Kairobi**: That really was a “wrong neighbourhood” moment
+
+>[11:26 AM] **Shit Disturber**: That guy as soon as no one agrees with him
+
+>[11:27 AM] **Captain nobrainer**: Is someone maintaining the Tundra server quote/history book?
+
+>[11:27 AM] **Captain nobrainer**: This is a good addition
+
+>[11:27 AM] **Captain nobrainer**: Hey @Finetundra, remember Irish?
+
+>[11:27 AM] **Finetundra**: I'll be sure it gets added. Also...
+
+>[11:28 AM] **Finetundra**: And yes, of course I remember him
+
+>[11:29 AM] **Captain nobrainer**: The memories
+
+>[11:29 AM] **Uranium**: I don't WANT anyone to like me
+
+>[11:29 AM] **Uranium**: I'm a mere entity
+
+>[11:30 AM] **Uranium**: Just acknowledge my existence or I'll smite you
+
+>[11:30 AM] **Shit Disturber**:
+
+>[11:32 AM] **Captain nobrainer**: This gave me nostalgia lol. I’ll make an effort to visit the server more often...
+
+>[11:32 AM] **Shit Disturber**: Welcome aboard Captain
+
+>[11:43 AM] **MTReese**: Yo this was a fucking movie
+
+>[11:44 AM] **Kairobi**: Well I like you ok @Uranium and wot u gonna do about it m8
+
+>[11:45 AM] **Shit Disturber**: He’s speaking tier 3 British
+
+>[11:46 AM] **☆ Spoon S2000 Race Car '00**: Wow, just caught up on all this juicy drama, it seems Tundra does indeed keep that MF thang on him
+
+>[11:46 AM] **Uranium**: listen here yeh
+
+>[11:46 AM] **Uranium**: ur breath stinks
+
+>[11:47 AM] **Uranium**: fucking fanny fuck
+
+>[11:47 AM] **Kairobi**: Woah m8 dats jus disrespec bruv
+
+>[11:48 AM] **Kairobi**: We share a birthday. We’re bonded whether you like it or not.
+
+>[11:50 AM] **Kairobi**: Can we invite randoms more often? That was reinvigorating.
