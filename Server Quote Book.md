@@ -636,3 +636,6 @@ Tundra: “fix’t”
 >[11:50 AM] **Kairobi**: Can we invite randoms more often? That was reinvigorating.
 
 ***
+
+>**Uranium**: I'm fuckin' rich bitch, I'll make you disappear
+
