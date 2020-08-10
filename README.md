@@ -137,6 +137,8 @@ LAME Windows MP3 Encoder Codec Installer: [Lame v3.99.3 (for Windows)](https://l
 
 VLSM Calculator: [vlsm-calc.net](http://vlsm-calc.net)
 
+Blackbox Windows Manager for Windows: [Mojmir's bbZero Builds](https://spoonm.org/bbzero/)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
