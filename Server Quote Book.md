@@ -639,3 +639,8 @@ Tundra: “fix’t”
 
 >**Uranium**: I'm fuckin' rich bitch, I'll make you disappear
 
+***
+
+>**Pelp**: I'm going to call the fire department. Not because I need them, but because I like them.
+
+***
