@@ -11,11 +11,11 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Server is on standby: 
+Server is offline until further notice: 
 
-Current Modpack: Enigmatica 2 Expert (Version 1.74 | MC Version 1.12.2) 
+Current Modpack: ~Enigmatica 2 Expert (Version 1.74 | MC Version 1.12.2)~
 
-Launcher: ATLauncher *
+Launcher: ~ATLauncher *~
 
 <!-- ~Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)~ -->
 
