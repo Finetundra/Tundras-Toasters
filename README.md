@@ -145,6 +145,6 @@ Borderless Gaming: [Up to date GitHub repo](https://github.com/Codeusa/Borderles
 
 ---
 ### Repositories
-RedHat Enterprise Linux 8: https://thevoxel.net/repo/rhel8-install/
+<!--- RedHat Enterprise Linux 8: https://thevoxel.net/repo/rhel8-install/ --->
 
 Collection of utilities related to Adobe ColdFusion(this is where our Oracle Java downloads go): https://www.adobe.com/support/coldfusion/downloads.html#additionalThirdPartyInstallers
