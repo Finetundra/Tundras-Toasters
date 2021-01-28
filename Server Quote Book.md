@@ -645,14 +645,14 @@ Tundra: “fix’t”
 
 ***
 
-**MTReese**: Dick Mother fucker can you suck it!
+>**MTReese**: Dick Mother fucker can you suck it!
 
 ***
 
-**themachoman997**: Vore me mommy!
+>**themachoman997**: Vore me mommy!
 
 ***
 
-**Windsage**: I love it when asian men chant at me.
+>**Windsage**: I love it when asian men chant at me.
 
 ***
