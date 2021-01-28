@@ -644,3 +644,15 @@ Tundra: “fix’t”
 >**Pelp**: I'm going to call the fire department. Not because I need them, but because I like them.
 
 ***
+
+**MTReese**: Dick Mother fucker can you suck it!
+
+***
+
+**themachoman997**: Vore me mommy!
+
+***
+
+**Windsage**: I love it when asian men chant at me.
+
+***
