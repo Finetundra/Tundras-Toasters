@@ -141,6 +141,8 @@ Blackbox Windows Manager for Windows: [Mojmir's bbZero Builds](https://spoonm.or
 
 Borderless Gaming: [Up to date GitHub repo](https://github.com/Codeusa/Borderless-Gaming)
 
+Filelight: [Homepage for Filelight](https://utils.kde.org/projects/filelight/)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
