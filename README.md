@@ -59,6 +59,14 @@ macOS: https://github.com/Finetundra/Tundras-Toasters/raw/master/Games/Minecraft
 
 FOMM: https://cdn.discordapp.com/attachments/123995612969435136/307565152180633600/FOMM-36901-0-13-21.exe
 
+## Valheim Server:
+
+Server is online but unstable. Expect periodic outages
+
+Server Address: sectiontest.ddns.net
+
+* *Please contact existing server member or admin for the password to access the server. Password is subject to change*
+
 ## Useful Links:
 
 ### Oracle Java JRE 8: 
