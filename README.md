@@ -151,7 +151,7 @@ Borderless Gaming: [Up to date GitHub repo](https://github.com/Codeusa/Borderles
 
 Filelight: [Homepage for Filelight](https://utils.kde.org/projects/filelight/)
 
-Xb2Xinput: [emoose's ViGem driver for original Xbox controllers on PC](https://github.com/emoose/Xb2XInput)
+Xb2Xinput: [emoose's ViGEm driver for original Xbox controllers on PC](https://github.com/emoose/Xb2XInput)
 
  *Note: Utilities hosted by third party providers are subject to change.*
 
