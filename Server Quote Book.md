@@ -656,3 +656,5 @@ Tundra: “fix’t”
 >**Windsage**: I love it when asian men chant at me.
 
 ***
+>**Uranium** *(pretty much all the time)*: You headass, lookin' ass
+***
