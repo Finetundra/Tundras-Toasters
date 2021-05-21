@@ -153,6 +153,8 @@ Filelight: [Homepage for Filelight](https://utils.kde.org/projects/filelight/)
 
 Xb2Xinput: [emoose's ViGEm driver for original Xbox controllers on PC](https://github.com/emoose/Xb2XInput)
 
+Registry file to set Windows to use UTC time [here](https://github.com/Finetundra/Tundras-Toasters/raw/master/Software/WinUTCTime.7z)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
