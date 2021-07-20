@@ -658,3 +658,4 @@ Tundra: “fix’t”
 ***
 >**Uranium** *(pretty much all the time)*: You headass, lookin' ass
 ***
+>**Wispers** *While watching Tundra play Super Mario Land 2* Why do even the boxes look asian?
