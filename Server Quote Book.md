@@ -660,3 +660,5 @@ Tundra: “fix’t”
 ***
 >**Wispers** *(While watching Tundra play Super Mario Land 2)* Why do even the boxes look asian?
 ***
+>**Finetundra**, **Kairobi**, **pelp** (Makeing random poping noises at 2 AM in an attempt to drive wispers insane)
+***
