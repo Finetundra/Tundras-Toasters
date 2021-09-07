@@ -71,32 +71,32 @@ Server Address: sectiontest.ddns.net
 
 ### Oracle Java JRE 8: 
 
-##### Note: The Windows and macOS Java downloads are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. All provided downloads labled "Oracle" are official builds, but hosted by specified providers. 
+##### Note: The Java downloads below are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. These are hosted by a third-party to keep them alive.
  
  
 
 
   
   
-   Windows: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-windows-x64.exe
+ Windows: https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-windows-x64.exe
    
- macOS: http://download.macromedia.com/pub/coldfusion/java/java8/JDK8u241/jdk-8u241-macosx-x64.dmg
+ macOS: https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
 
   
- Linux: https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.rpm (RPM)    
- Tar:   https://thevoxel.net/~toasters/OracleJava8/JRE/8u212/jre-8u212-linux-x64.tar.gz (Source)
+ Linux: https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.rpm (RPM)    
+ Tar:   https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.tar.gz (Source)
          
          
 ### Oracle Java JDK 8: 
 
-##### Builds provided in this section are official Oracle builds.  
+##### Builds provided in this section are also provided by the Adobe ColdFusion Support Center. Hosted by a third-party to keep the links alive.  
 
-  Windows: https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-windows-x64.exe
+  Windows: https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-windows-x64.exe
   
-  macOS:  https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-macosx-x64.dmg
+  macOS:  https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
   
-  Linux:  https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-linux-x64.rpm (RPM)  
-          https://thevoxel.net/~toasters/OracleJava8/JDK/8u212/jdk-8u212-linux-x64.tar.gz (Source)
+  Linux:  https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.rpm (RPM)  
+          https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.tar.gz (Source)
 
 <!--- Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html --->
 
@@ -104,13 +104,19 @@ Server Address: sectiontest.ddns.net
 
 ### Zulu (Azul Systems) JRE:
 
-  Windows: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25-ca-jre8.0.222-win_x64.msi
+  Windows: https://files.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-win_x64.msi
+  
+  macOS (x86): https://files.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_x64.dmg
+  
+  macOS (ARM/M1 Chip): https://files.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_aarch64.dmg
 
 ### Zulu (Azul Systems) JDK:
 
-  Windows: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25-ca-jdk8.0.222-win_x64.msi
+  Windows: https://files.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-win_x64.msi
   
-  macOS: https://thevoxel.net/~toasters/ZuluJava/zulu8.40.0.25_1-ca-jdk8.0.222-macosx_x64.dmg
+  macOS (x86): https://files.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_x64.dmg
+  
+  macOS (ARM/M1 Chip): https://files.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_aarch64.dmg
 
 ---
 
