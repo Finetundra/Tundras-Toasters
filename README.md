@@ -141,7 +141,7 @@ Ookla Speed Test: http://beta.speedtest.net/
 
 DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master/DnD_Resources_List.md)
 
-FTB Launcher (Should work on all platforms): http://ftb.cursecdn.com/FTB2/launcher/FTB_Launcher.jar
+<!--FTB Launcher (Should work on all platforms): http://ftb.cursecdn.com/FTB2/launcher/FTB_Launcher.jar -->
 
 Driver Signature Enforcement Overrider: [Tool for bypassing 64bit Windows Vista-10 Driver Signature Enforcement](https://github.com/Finetundra/Tundras-Toasters/blob/master/Software/DSEO.md)
 
