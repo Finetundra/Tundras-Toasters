@@ -78,25 +78,25 @@ Server Address: sectiontest.ddns.net
 
   
   
- Windows: https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-windows-x64.exe
+ Windows: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-windows-x64.exe
    
- macOS: https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
+ macOS: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
 
   
- Linux: https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.rpm (RPM)    
- Tar:   https://files.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.tar.gz (Source)
+ Linux: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.rpm (RPM)    
+ Tar:   https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.tar.gz (Source)
          
          
 ### Oracle Java JDK 8: 
 
 ##### Builds provided in this section are also provided by the Adobe ColdFusion Support Center. Hosted by a third-party to keep the links alive.  
 
-  Windows: https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-windows-x64.exe
+  Windows: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-windows-x64.exe
   
-  macOS:  https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
+  macOS:  https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
   
-  Linux:  https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.rpm (RPM)  
-          https://files.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.tar.gz (Source)
+  Linux:  https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.rpm (RPM)  
+          https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.tar.gz (Source)
 
 <!--- Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html --->
 
@@ -104,19 +104,19 @@ Server Address: sectiontest.ddns.net
 
 ### Zulu (Azul Systems) JRE:
 
-  Windows: https://files.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-win_x64.msi
+  Windows: https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-win_x64.msi
   
-  macOS (x86): https://files.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_x64.dmg
+  macOS (x86): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_x64.dmg
   
-  macOS (ARM/M1 Chip): https://files.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_aarch64.dmg
+  macOS (ARM/M1 Chip): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_aarch64.dmg
 
 ### Zulu (Azul Systems) JDK:
 
-  Windows: https://files.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-win_x64.msi
+  Windows: https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-win_x64.msi
   
-  macOS (x86): https://files.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_x64.dmg
+  macOS (x86): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_x64.dmg
   
-  macOS (ARM/M1 Chip): https://files.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_aarch64.dmg
+  macOS (ARM/M1 Chip): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_aarch64.dmg
 
 ---
 
@@ -160,6 +160,9 @@ Filelight: [Homepage for Filelight](https://utils.kde.org/projects/filelight/)
 Xb2Xinput: [emoose's ViGEm driver for original Xbox controllers on PC](https://github.com/emoose/Xb2XInput)
 
 Registry file to set Windows to use UTC time [here](https://github.com/Finetundra/Tundras-Toasters/raw/master/Software/WinUTCTime.7z)
+
+FileLite (WinDirStat but not shit ugly): https://binary-factory.kde.org/view/Windows%2064-bit/job/Filelight_Release_win64/lastSuccessfulBuild/artifact/
+*Select the xxx-cl.exe to download the windows installer*
 
  *Note: Utilities hosted by third party providers are subject to change.*
 
