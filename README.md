@@ -164,6 +164,8 @@ Registry file to set Windows to use UTC time [here](https://github.com/Finetundr
 FileLite (WinDirStat but not shit ugly): https://binary-factory.kde.org/view/Windows%2064-bit/job/Filelight_Release_win64/lastSuccessfulBuild/artifact/
 *Select the xxx-cl.exe to download the windows installer*
 
+uBlock Origin (I got tired of searching for it): https://ublockorigin.com/
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
