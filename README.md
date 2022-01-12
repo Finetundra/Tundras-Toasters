@@ -102,7 +102,7 @@ Server Address: sectiontest.ddns.net
 
 <!--- Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html --->
 
-### Zulu (Azul Systems) JRE:
+### Zulu (Azul Systems) JRE 16:
 
   Windows: https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-win_x64.msi
   
@@ -110,7 +110,7 @@ Server Address: sectiontest.ddns.net
   
   macOS (ARM/M1 Chip): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_aarch64.dmg
 
-### Zulu (Azul Systems) JDK:
+### Zulu (Azul Systems) JDK 16:
 
   Windows: https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-win_x64.msi
   
