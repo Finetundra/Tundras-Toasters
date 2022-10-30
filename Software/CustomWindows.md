@@ -1,5 +1,4 @@
-This is the basic page for information regarding GUI and some utility customization for Microsoft Windows. All utilities linked here are external and are subject to change
-
+This page provides various options for customizing Microsoft Windows, from desktop shell replacements, to smaller utilities for things like changing keyboard commands. If you are looking to customize Windows and you're not afraid to break things, you're in the right place. 
 
 ## Windows Desktop Shells 
 
