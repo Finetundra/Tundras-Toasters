@@ -168,6 +168,8 @@ uBlock Origin (I got tired of searching for it): https://ublockorigin.com/
 
 Script for converting DEB packages to RPM packages: [Pretty link rather than URL](https://github.com/Finetundra/Tundras-Toasters/blob/master/Software/install_from_deb_url.sh)
 
+NirSoft's [WakeMeOnLAN, a Wake-On-LAN utility for Windows](https://www.nirsoft.net/utils/wake_on_lan.html)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
