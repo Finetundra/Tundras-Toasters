@@ -20,7 +20,7 @@ The native Windows desktop shell is Microsoft Windows Explorer (explorer.exe) wh
 
 ### bbZero: 
 
-[Another derivative of Blackbox for Windows, however is much older and has some issues. If the bbLeanSkin module is loaded, will conflict with anti-cheat solutions such as BattlEye and EasyAntiCheat. As all original builds have vanished, a build will be linked from this repo.](https://github.com/Finetundra/Tundras-Toasters/tree/master/Software)
+[Another derivative of Blackbox for Windows, however is much older and has some issues. If the bbLeanSkin module is loaded, will conflict with anti-cheat solutions such as BattlEye and EasyAntiCheat. As most original builds have vanished, a build will be linked from this repo (current link provided by archive.org).](https://archive.org/download/bbZero_install_1.18.0-rc6_mojmir/bbZero_install_1.18.0-rc6_mojmir.rar)
 
 
 ## Windows GUI tweaks and customization
