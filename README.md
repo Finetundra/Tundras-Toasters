@@ -170,6 +170,8 @@ Script for converting DEB packages to RPM packages: [Pretty link rather than URL
 
 NirSoft's [WakeMeOnLAN, a Wake-On-LAN utility for Windows](https://www.nirsoft.net/utils/wake_on_lan.html)
 
+Audio Sharing, a Linux utility for streaming audio to LAN [link](https://flathub.org/apps/details/de.haeckerfelix.AudioSharing)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
