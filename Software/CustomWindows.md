@@ -41,11 +41,11 @@ Everything in this section is about changing the existing UI without replacing i
 
 ### StarDock WindowBlinds: 
 
-[Proprietary tool for applying "skins" that change the style of window frames and the taskbar. Has conflicts with Chromium derived applications like Google Chrome and Discord.](https://www.stardock.com/products/windowblinds/)
+[Proprietary tool for applying "skins" that change the style of window frames and the taskbar.](https://www.stardock.com/products/windowblinds/)
 
 ### StarDock Curtains: 
 
-[Similar to WindowBlinds, only changes some aesthetic elements of window frames, rather than modifying Win32 elements. Conflicts with Chromium based applications such as Google Chrome and Discord.](https://www.stardock.com/products/windowblinds/)
+[Similar to WindowBlinds, only changes some aesthetic elements of window frames, rather than modifying Win32 elements.](https://www.stardock.com/products/windowblinds/)
 
 ### Wallpaper Engine: 
 
