@@ -96,7 +96,7 @@ Server Address: sectiontest.ddns.net
   macOS:  https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
   
   Linux:  https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-linux-x64.rpm (RPM)  
-          https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-linux-x64.tar.gz (Source)
+    Tar:  https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-linux-x64.tar.gz (Source)
 
 <!--- Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html --->
 
