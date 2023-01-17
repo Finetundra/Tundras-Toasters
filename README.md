@@ -123,7 +123,7 @@ Server Address: sectiontest.ddns.net
 ### Other Utilities:
 
 
-7zip (Windows 64bit): https://www.7-zip.org/a/7z1805-x64.msi
+7zip (Windows 64bit): https://www.7-zip.org/a/7z2201-x64.msi
 
 SCP Toolkit (Playstation 3 & 4 controller drivers): https://github.com/Finetundra/Tundras-Toasters/raw/master/Software/ScpToolkit_Setup.exe
 
