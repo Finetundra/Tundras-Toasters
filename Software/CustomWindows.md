@@ -51,3 +51,7 @@ Everything in this section is about changing the existing UI without replacing i
 
 [JS based utility for custom animated wallpapers.](https://www.wallpaperengine.io/en)
 
+### Explorer++
+
+[Alternate file manager for Windows that can mostly replace the default Windows Explorer file manager component](https://explorerplusplus.com/)
+
