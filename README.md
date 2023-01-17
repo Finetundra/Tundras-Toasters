@@ -172,6 +172,8 @@ NirSoft's [WakeMeOnLAN, a Wake-On-LAN utility for Windows](https://www.nirsoft.n
 
 Audio Sharing, a Linux utility for streaming audio to LAN [link](https://flathub.org/apps/details/de.haeckerfelix.AudioSharing)
 
+Explorer++, alternative file manager for Windows [link](https://explorerplusplus.com/)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
