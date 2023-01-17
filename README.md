@@ -5,7 +5,7 @@ Welcome to the Tundra's Toasters Github repo! This is an attempt by myself, Tund
 
 ## DnD
 
-Login Time Poll: [Here](https://docs.google.com/forms/d/e/1FAIpQLSe_hPwVzbgIpZ11eWkHYFk8ThUU0ZTsJylPScbrE6IjJkMRrw/viewform?usp=sf_link)
+<!-- Login Time Poll: [Here](https://docs.google.com/forms/d/e/1FAIpQLSe_hPwVzbgIpZ11eWkHYFk8ThUU0ZTsJylPScbrE6IjJkMRrw/viewform?usp=sf_link) -->
 
 DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master/DnD_Resources_List.md)
 
