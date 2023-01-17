@@ -71,32 +71,32 @@ Server Address: sectiontest.ddns.net
 
 ### Oracle Java JRE 8: 
 
-##### Note: The Java downloads below are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. These are hosted by a third-party to keep them alive.
+##### Note: The Java downloads below are provided by the Adobe ColdFusion Support Center, as Oracle now requires an Oracle account to download Oracle Java. The provided downloads are subject to change. 
  
  
 
 
   
   
- Windows: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-windows-x64.exe
+ Windows: https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u351/jre/jre-8u351-windows-x64.exe
    
- macOS: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
+ macOS: https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u351/jre/jre-8u351-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
 
   
- Linux: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.rpm (RPM)    
- Tar:   https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JRE/jre-8u301-linux-x64.tar.gz (Source)
+ Linux: https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u351/jre/jre-8u351-linux-x64.rpm (RPM)    
+ Tar:   https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u351/jre/jre-8u351-linux-x64.tar.gz (Source)
          
          
 ### Oracle Java JDK 8: 
 
-##### Builds provided in this section are also provided by the Adobe ColdFusion Support Center. Hosted by a third-party to keep the links alive.  
+##### Builds provided in this section are also provided by the Adobe ColdFusion Support Center.   
 
-  Windows: https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-windows-x64.exe
+  Windows: https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-windows-x64.exe
   
-  macOS:  https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
+  macOS:  https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-macosx-x64.dmg (Note, see Zulu downloads below for ARM builds)
   
-  Linux:  https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.rpm (RPM)  
-          https://cdn.thvxl.pw/~tundra/Java/ColdFusion/JDK/jdk-8u301-linux-x64.tar.gz (Source)
+  Linux:  https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-linux-x64.rpm (RPM)  
+          https://cfdownload.adobe.com/pub/adobe/coldfusion/java/java8/java8u341/jdk/jdk-8u341-linux-x64.tar.gz (Source)
 
 <!--- Oracle Java JRE 9: http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html --->
 
