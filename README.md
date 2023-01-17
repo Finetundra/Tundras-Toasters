@@ -102,21 +102,21 @@ Server Address: sectiontest.ddns.net
 
 <!--- Oracle Java JDK 9:http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html --->
 
-### Zulu (Azul Systems) JRE 16:
+### Zulu (Azul Systems) JRE 17:
 
-  Windows: https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-win_x64.msi
+  Windows: https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jre17.0.5-win_x64.msi
   
-  macOS (x86): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_x64.dmg
+  macOS (x86): https://cdn.azul.com/zulu/bin/zulu17.28.13-ca-jre17.0.0-macosx_x64.dmg
   
-  macOS (ARM/M1 Chip): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JRE/zulu16.32.15-ca-jre16.0.2-macosx_aarch64.dmg
+  macOS (ARM/M1 Chip): https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jre17.0.5-macosx_aarch64.dmg
 
-### Zulu (Azul Systems) JDK 16:
+### Zulu (Azul Systems) JDK 17:
 
-  Windows: https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-win_x64.msi
+  Windows: https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-win_x64.msi
   
-  macOS (x86): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_x64.dmg
+  macOS (x86): https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-macosx_x64.dmg
   
-  macOS (ARM/M1 Chip): https://cdn.thvxl.pw/~tundra/Java/ZuluJava/JDK/zulu16.32.15-ca-jdk16.0.2-macosx_aarch64.dmg
+  macOS (ARM/M1 Chip): https://cdn.azul.com/zulu/bin/zulu17.38.21-ca-jdk17.0.5-macosx_aarch64.dmg
 
 ---
 
