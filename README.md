@@ -11,17 +11,21 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Server is offline until further notice: 
+Server is online: 
 
-Current Modpack: ~Enigmatica 2 Expert (Version 1.74 | MC Version 1.12.2)~
+<!-- Server is offline until further notice: -->
 
-Launcher: ~ATLauncher *~
+Current Modpack: Enigmatica 9 (Version 1.17.2 | MC Version 1.19.2)
+
+Pack Source: CurseForge (use ATLauncher, CurseForge Launcher, GDLauncher, Prism Launcher)
+
+<!-- Launcher: ~ATLauncher *~ -->
 
 <!-- ~Current Modpack: FTB Infinity Evolved (Version 3.0.2 | MC Version 1.7.10)~ -->
 
 <!-- ~Launcher: FTB Launcher~ -->
 
-Server Address: sectiontest.ddns.net
+Server Address: Please contact admin for address
 
 <!-- ~Server is offline until further notice~ -->
 
@@ -31,7 +35,7 @@ Server Address: sectiontest.ddns.net
 
 <!-- ~Server Address: virustrand.com~ -->
 
-* *Additional instructions required. Please contact server admin if you require assistance*
+<!-- * *Additional instructions required. Please contact server admin if you require assistance* -->
 
 ## Minecraft Mods: 
 
