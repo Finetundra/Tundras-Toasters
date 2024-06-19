@@ -178,6 +178,8 @@ Audio Sharing, a Linux utility for streaming audio to LAN [link](https://flathub
 
 Explorer++, alternative file manager for Windows [link](https://explorerplusplus.com/)
 
+Windows reg key to disable the FluentUI context menu on Windows 11. (Thanks to Brink from ElevenForum that originally created this.) [link](https://github.com/Finetundra/Tundras-Toasters/blob/master/Software/Disable_Show_more_options_context_menu.reg)
+
  *Note: Utilities hosted by third party providers are subject to change.*
 
 ---
