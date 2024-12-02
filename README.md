@@ -11,11 +11,11 @@ DnD Resources: [Here](https://github.com/Finetundra/Tundras-Toasters/blob/master
 
 ## Minecraft Server:
 
-Server is online: 
+Server is offline: 
 
-<!-- Server is offline until further notice: -->
+Server is offline until further notice: 
 
-Current Modpack: Enigmatica 9 (Version 1.17.2 | MC Version 1.19.2)
+<!-- Current Modpack: Enigmatica 9 (Version 1.17.2 | MC Version 1.19.2) -->
 
 Pack Source: CurseForge (use ATLauncher, CurseForge Launcher, GDLauncher, Prism Launcher)
 
@@ -65,9 +65,9 @@ FOMM: https://cdn.discordapp.com/attachments/123995612969435136/3075651521806336
 
 ## Valheim Server:
 
-Server is online but unstable. Expect periodic outages
+Server is offline.
 
-Server Address: sectiontest.ddns.net
+Server Address: 
 
 * *Please contact existing server member or admin for the password to access the server. Password is subject to change*
 
@@ -165,8 +165,8 @@ Xb2Xinput: [emoose's ViGEm driver for original Xbox controllers on PC](https://g
 
 Registry file to set Windows to use UTC time [here](https://github.com/Finetundra/Tundras-Toasters/raw/master/Software/WinUTCTime.7z)
 
-FileLite (WinDirStat but not shit ugly): https://binary-factory.kde.org/view/Windows%2064-bit/job/Filelight_Release_win64/lastSuccessfulBuild/artifact/
-*Select the xxx-cl.exe to download the windows installer*
+<!-- FileLite (WinDirStat but not shit ugly): https://binary-factory.kde.org/view/Windows%2064-bit/job/Filelight_Release_win64/lastSuccessfulBuild/artifact/
+*Select the xxx-cl.exe to download the windows installer* -->
 
 uBlock Origin (I got tired of searching for it): https://ublockorigin.com/
 
