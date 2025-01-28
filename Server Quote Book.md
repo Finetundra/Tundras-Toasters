@@ -664,3 +664,7 @@ Tundra: “fix’t”
 
 >**wispers**: You guys are going to give me PTSD.
 ***
+
+>**randy with an r**: Artificial Intelligence is just spicy Linear Algebra.
+
+***
